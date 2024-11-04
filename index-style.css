@@ -1,0 +1,41 @@
+body{
+    background-color:#FFC067;
+}
+.nav{
+    padding-top: .75em; 
+    text-align: center;
+}
+h1{
+    text-align: center;
+    padding-bottom: 0.5em;
+    font-family: Garamond, serif;
+    font-size: 2.5em;
+}
+.spoiler-warning:hover{
+    background-color: yellow;
+}
+.spoiler-warning{
+    text-align: center;
+    padding-bottom: 0.5em;
+    font-family: Garamond, serif;
+    font-size: 1em;
+    font-style: bold;
+}
+
+p{
+    padding-right: 1em;
+    padding-left: 1em;
+}
+h2, h3, h4{
+    padding-left: 0.5em;
+   
+    font-family: Garamond, serif;
+    font-size: 1.75em;
+
+}
+.copyright{
+    text-align: center;
+    font-family: Garamond, serif;
+    font-size: 1em;
+}
+

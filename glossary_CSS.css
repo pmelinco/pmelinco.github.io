@@ -1,0 +1,48 @@
+            .vocabularyTable{
+                font-family: Helvetica, Arial, sans-serif; 
+                padding-right: 2em;
+                padding-left: 2em;
+            }
+            table{
+                border: .5em;
+            }
+            th, td, tr{
+                border: .05em;
+                border-color: black;
+                border-style: solid;
+            }
+           .navigationBar{
+                padding-top: .75em; 
+                text-align: center;
+           }
+
+           tr:hover{
+            background-color: orange;
+           }
+            h2{
+            font-family: Garamond;
+            font-size: 2.5em;
+            text-align: center;
+            padding-bottom: 0.25em;
+           }
+
+           .subheadingInformation{
+            padding-left: 2em;
+            padding-right: 2em;
+           }
+
+           .footer{
+            text-align: center;
+           }
+           .tr{
+            padding-top: 0.125em;
+            padding-bottom: 0.125em;
+           }
+           .tr, .th{
+            font-size: 1em;
+            font-family: Garamond; 
+            padding-bottom: 0.15em;
+            padding-top: 0.15em;
+            padding-right: 0.15em;
+            padding-bottom: 0.15em;
+           }
